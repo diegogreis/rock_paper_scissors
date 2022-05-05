@@ -71,9 +71,3 @@ let winner = (win > lost) ? 'You are the Winner!' :
 
 alert(`You won ${win} times; You lost ${lost} times; We got a tie ${tie} times!`);
 alert(winner);
-
-
-
-
-
-
